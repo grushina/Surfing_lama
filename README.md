@@ -1,2 +1,2 @@
 # Surfing_lama
-Data Sc. Toolbox Course
+This is a repository for the Data Scientist Toolbox Course projects
